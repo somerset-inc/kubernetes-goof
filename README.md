@@ -171,3 +171,4 @@ webadmin-57f55c596d-fhqqw   1/1     Running   0          3s
 
 So this basically gives us a mirrored setup in the default namespace as we have in the secure namespace, but in default we are not enforcing the restricted Pod Security Policy.
 
+
